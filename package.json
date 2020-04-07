@@ -1,11 +1,19 @@
 {
   "name": "taybi-print",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "testing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Bilal TAYBI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TAYBI/taybi-print.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TAYBI/taybi-print/issues"
+  },
+  "homepage": "https://github.com/TAYBI/taybi-print#readme"
 }
